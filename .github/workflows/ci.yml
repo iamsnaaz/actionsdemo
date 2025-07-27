@@ -39,7 +39,7 @@ jobs:
       uses: docker/build-push-action@v4
       with:
           push: true
-          tags: poc1:0.01
+          tags: iamsnaaz/my-image:latest
 
   
     
